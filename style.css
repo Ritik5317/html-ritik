@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: palevioletred;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color: maroon;
+    
+}
+li{
+    background-color: lightblue;
+    text-align: left;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: palevioletred;
+    font-weight: bold; 
+}
+img{
+    color: antiquewhite;
+}
+video{
+    background-color: antiquewhite;
+}
+#x{
+    background-color:bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#y{
+    background-color:bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#r{
+    border: 10pt solid black;
+    background-color: coral;
+    margin-left: 280;
+}
